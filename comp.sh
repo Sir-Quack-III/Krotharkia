@@ -1,0 +1,1 @@
+g++ src/*.cpp -lncurses -o krotharkia
